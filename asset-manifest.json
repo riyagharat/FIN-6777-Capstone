@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/FIN-6777-Capstone/static/js/main.fa333f7e.js",
+    "main.js": "/FIN-6777-Capstone/static/js/main.cc342b22.js",
     "index.html": "/FIN-6777-Capstone/index.html",
-    "main.fa333f7e.js.map": "/FIN-6777-Capstone/static/js/main.fa333f7e.js.map"
+    "main.cc342b22.js.map": "/FIN-6777-Capstone/static/js/main.cc342b22.js.map"
   },
   "entrypoints": [
-    "static/js/main.fa333f7e.js"
+    "static/js/main.cc342b22.js"
   ]
 }
